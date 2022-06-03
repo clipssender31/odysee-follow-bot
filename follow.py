@@ -1,7 +1,7 @@
 import httpx, time, pyfiglet, os; from itertools import cycle; from concurrent.futures import ThreadPoolExecutor
 
 user = input("Username: ")
-claim = "5ff8f59cbf15a19c2b1d9cb8gf112741a0207f33"
+claim = "8d7ee458f34bfd68d472061b71e6032088d33afe"
 
 class bcolors:
     BLACK = '\033[30m'
