@@ -1,7 +1,7 @@
 # odysee-follow-bot
 Follow bot for the youtube like platform odysee.com, comes with proxy support, and threading uses an exploit discovered by bigboybigboi
 
-![](./unknown (4).png)
+![](./unknown(4).png)
 
 # Contacts
 * Discord - Not Sharing on github, can be found in the discord
